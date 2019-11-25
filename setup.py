@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='json-schema',
-    version='',
+    name='wayne-json-schema',
+    version='1.0.0',
     packages=[''],
     url='',
     license='',
