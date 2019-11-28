@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='wayne-json-schema',
     version='1.0.0',
-    packages=['wayne-json-schema'],
+    packages=['wayne_json_schema'],
     url='',
     license='',
     author='garshakyan',
