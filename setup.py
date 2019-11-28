@@ -3,10 +3,12 @@ from setuptools import setup
 setup(
     name='wayne-json-schema',
     version='1.0.0',
-    packages=[''],
+    packages=['wayne-json-schema'],
     url='',
     license='',
     author='garshakyan',
     author_email='',
-    description=''
+    description='',
+    setup_requires=['setuptools_scm'],
+    include_package_data=True
 )
