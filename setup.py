@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='wayne-json-schema',
+    name='herbie-json-schema',
     version='1.0.0',
-    packages=['wayne_json_schema'],
+    packages=['herbie_json_schema'],
     url='',
     license='',
     author='garshakyan',
